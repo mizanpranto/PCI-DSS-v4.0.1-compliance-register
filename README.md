@@ -1,4 +1,4 @@
-# Pranto Shield — PCI DSS v4.0.1 Compliance Register
+# Pranto's GRC — PCI DSS v4.0.1 Compliance Register
 
 A single-page, dependency-light dashboard for tracking a PCI DSS v4.0.1 gap
 assessment: import a workbook, and every chart, table, and report rebuilds
